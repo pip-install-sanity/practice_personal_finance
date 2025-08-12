@@ -18,6 +18,6 @@ Skills Practiced
 - Basic data analysis logic
 
 How It Works
-- Load expense data from a file or input directly
-- Process and categorize the expenses
-- Output a summary with key spending insights
+1. Load expense data from a file or input directly
+2. Process and categorize the expenses
+3. Output a summary with key spending insights
